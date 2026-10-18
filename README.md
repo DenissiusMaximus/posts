@@ -5,3 +5,7 @@
 - [Posts Gateway](https://github.com/DenissiusMaximus/posts-gateway)
 - [Posts Auth](https://github.com/DenissiusMaximus/posts-auth)
 - [Posts Infrastructure](https://github.com/DenissiusMaximus/posts-infra)
+
+## Links
+- [Grafana](https://posts-grafana.lacarte.dev/)
+- [Auth Swagger](https://posts.lacarte.dev/auth/swagger/index.html)
